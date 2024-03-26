@@ -5,11 +5,15 @@
 ## Currently learning at
 
 GitHub Global Campus!
+freecodeclasses.com!
+and
+Autodesk University!
 
 
 ## Future Updates
 
 - [ ] Reliable Pull request and intelligent issues.
+- [ ] Content creation 
 
 ## Author
 
