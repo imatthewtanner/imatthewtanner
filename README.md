@@ -1,14 +1,11 @@
 <h1 align="center"><My README.md File></h1>
 
-<p align="center"><Check by everyonce in a while as I update it!></p>
+<p align="center"><Check back everyonce in a while as I update it!></p>
 
 ## Currently learning at
 
 GitHub Global Campus!
 freecodeclasses.com!
-and
-Autodesk University!
-
 
 ## Future Updates
 
